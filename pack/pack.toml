@@ -1,0 +1,13 @@
+name = "Cobblemon Pack"
+author = "compose-cobblemon"
+version = "0.0.0-dev"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e8692501ac57aab8f564fc18980c2a476028e59bd91c8eb7cb4258a00bab34f3"
+
+[versions]
+fabric = "0.20.1"
+minecraft = "1.21.1"
